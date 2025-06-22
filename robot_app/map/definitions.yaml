@@ -1,0 +1,8 @@
+TELA_INICIAL:
+  png: "tela_inicial.png"
+
+TELA_ESCOLHA_CPF_AGENCIA:
+  png: "cpf_ou_conta.png"
+
+ENTRE_COM_AGENCA_E_CONTA:
+  png: "entre_com_agencia_e_conta.png"
